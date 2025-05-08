@@ -1,2 +1,0 @@
-# covalex-pwa
-Covalex PWA is a silent, CSS-only color quiz guided by robot Walli. Match the right color for each character to unlock the next. Fully installable, offline-ready, and mobile-friendly.
